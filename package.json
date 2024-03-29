@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Kozu49/nodejs/issues"
   },
-  "homepage": "https://github.com/Kozu49/nodejs#readme"
+  "homepage": "https://github.com/Kozu49/nodejs#readme",
+  "dependencies": {
+    "color": "^4.2.3",
+    "simple-node-logger": "^21.8.12"
+  }
 }
